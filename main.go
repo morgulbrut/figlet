@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/lukesampson/figlet/figletlib"
+	"github.com/morgulbrut/figlet/figletlib"
 )
 
 const (
